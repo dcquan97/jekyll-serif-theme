@@ -1,13 +1,14 @@
 ---
-title: Jekyll Serif Theme
+title: GIA QUANG PHAT JOINT STOCK COMPANY
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: We do what we say. We say what we do.
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# GIA QUANG PHAT JOINT STOCK COMPANY.
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We do what we say
+We say what we do.
